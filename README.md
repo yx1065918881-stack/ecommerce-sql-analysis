@@ -107,3 +107,29 @@ ecommerce-user-behavior-analysis
 - Data restructuring and modeling  
 - SQL aggregation and analytical queries  
 - Dashboard storytelling and visualization  
+
+---
+
+## 8. Dashboard Preview
+
+### KPI Overview
+
+![KPI Dashboard](images/kpi_dashboard.png)
+
+---
+
+### Sales Trend Analysis
+
+![Sales Trend](images/sales_trend.png)
+
+---
+
+### Category Performance
+
+![Category Distribution](images/category_distribution.png)
+
+---
+
+### User Segmentation Analysis
+
+![User Segmentation](images/user_segmentation.png)
